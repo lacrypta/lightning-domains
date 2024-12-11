@@ -12,8 +12,6 @@ This API allows you to interact with `user` data, `wallets`, and `waliases` in t
 
 - [Endpoints](#endpoints)
 
-- [Models](./MODELS.md)
-
 ---
 
 ## Introduction
